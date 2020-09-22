@@ -46,7 +46,7 @@ Not much didn't work. Looking back at what I completed, I wish I completed the "
         * GraphQL Playground hosted on `localhost:4000`
 
 ### References
-* [Intro to GraphQL comparing it to REST and ]
+* [Intro to GraphQL article](https://medium.com/open-graphql/graphql-1-140fab436942)
 * [GraphQL basics](https://www.howtographql.com/basics/0-introduction/)
 * [GraphQL using React and Apollo tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
 * [GraphQL using Node tutorial](https://www.howtographql.com/graphql-js/0-introduction/)
